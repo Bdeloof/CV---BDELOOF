@@ -1,8 +1,3 @@
-# React + Vite
+Création de mon Curriculum vitæ en ligne en utilisant la Bibliothèque React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+J'ai utilisé cette bibliothèque pour diversifier mes projets. J'avais utiliser le HTML, le CSS pour styliser et le JavaScript pour un autre projet. J'ai utilisé le PHP avec Symfony pour encore un autre  projet donc j'ai voulu agrandir ma palette de compétence.
